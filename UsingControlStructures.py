@@ -23,6 +23,7 @@ elif personsAge>=ageForPresidency:
     print "Vote for me"
 
 print"-----------------------------"
-for i in range(40,0,-1):
+for i in range(40,-1,-1):
     if i%3 == 0:
          print i
+print"-----------------------------"
