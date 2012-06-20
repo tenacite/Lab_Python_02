@@ -1,0 +1,16 @@
+-----------------------Control Structures I---------------------------
+Part I:
+1.
+a. x is 2
+b. x is 3
+c. x is 1
+d. z is 7
+
+2.
+
+3.
+a. 2,4,6,8,10
+b. 10 times through the loop.
+
+4.nothing will happen so 0 times through the loop.
+
